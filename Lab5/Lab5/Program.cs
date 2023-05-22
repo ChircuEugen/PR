@@ -6,7 +6,7 @@ using System.Collections.Generic;
 using System.Net;
 using System.Net.Mail;
 
-namespace SMTP
+namespace Lab5
 {
     class Program
     {
