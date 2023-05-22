@@ -14,8 +14,9 @@ namespace Lab5
         {
             SendMessage("aiciSeIntroduceSenderul", "aiciReceiverul", "parolaSenderului", "Test", "Mesaj de testare");
             Console.ReadKey();
+            
+            // Afiseaza continutul mesajelor din INBOX
             ShowMessages("Senderul", "parola");
-
             Console.ReadKey();
         }
 
